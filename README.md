@@ -9,4 +9,4 @@ Tech: Python · SQL · Power BI · ETL Pipelines · Scikit-learn
 Domain: Real Estate · Pricing Models · KPI Design · Forecasting
 
 📧 koksoyhasan34@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/hasan-koksoy)
+🔗 [LinkedIn]https://linkedin.com/in/hasan-koksoy
